@@ -1,0 +1,26 @@
+{
+  "name": "Awakening_For_Earth_Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmamidon/Awakening-For-Earth-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmamidon/Awakening-For-Earth-website/issues"
+  },
+  "homepage": "https://github.com/nmamidon/Awakening-For-Earth-website#readme",
+  "devDependencies": {
+    "tachyons": "^4.10.0"
+  },
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
